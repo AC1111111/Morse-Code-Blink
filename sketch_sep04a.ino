@@ -39,7 +39,7 @@ void dot()
   digitalWrite(LED_BUILTIN, HIGH);
   delay(1000);
   digitalWrite(LED_BUILTIN, LOW);
-  delay(1000);
+  delay(3000);
 }
 
 void dash()
@@ -47,6 +47,6 @@ void dash()
   digitalWrite(LED_BUILTIN, HIGH);
   delay(3000);
   digitalWrite(LED_BUILTIN, LOW);
-  delay(1000);
+  delay(3000);
 }
   
